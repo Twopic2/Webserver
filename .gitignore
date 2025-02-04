@@ -1,4 +1,6 @@
-/.vscode/
-/Post/.vscode/
-*.DS_Store
+
 webchat/
+/*.vscode
+*.DS_Store
+
+.vscode/
